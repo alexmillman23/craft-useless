@@ -6,3 +6,6 @@
 ## 1.0.1
 - Add test command/console controller
 - Add another comment
+
+## 1.0.2
+- Update README
