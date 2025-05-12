@@ -18,6 +18,11 @@ use craft\base\Plugin as BasePlugin;
  */
 class Plugin extends BasePlugin
 {
+
+    /**
+     * Hello
+     */
+    
     public string $schemaVersion = '1.0.0';
     public bool $hasCpSettings = true;
 
