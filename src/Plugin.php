@@ -23,7 +23,7 @@ class Plugin extends BasePlugin
      * Hello, this is useless
      */
     
-    public string $schemaVersion = '1.0.0';
+    public string $schemaVersion = '1.0.1';
     public bool $hasCpSettings = true;
 
     public static function config(): array
