@@ -1,5 +1,6 @@
 {
   "name": "alex-millman/craft-useless",
+  "version": "1.0.1-dev",
   "description": "A useless plugin to understand the flow of local to commercial release",
   "type": "craft-plugin",
   "license": "proprietary",
@@ -23,7 +24,10 @@
     "handle": "useless",
     "name": "Useless",
     "developer": "Alex Millman",
-    "documentationUrl": ""
+    "documentationUrl": "",
+    "branch-alias": {
+      "dev-main": "1.x-dev"
+    }
   },
   "scripts": {
     "check-cs": "ecs check --ansi",
