@@ -20,7 +20,7 @@ class Plugin extends BasePlugin
 {
 
     /**
-     * Hello
+     * Hello, this is useless
      */
     
     public string $schemaVersion = '1.0.0';
